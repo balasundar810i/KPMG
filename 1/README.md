@@ -4,7 +4,7 @@ A 3 tier environment is a common setup. Use a tool of your choosing/familiarity 
 
 -------------------------------------------------------------------------------------------------------
 
-VPC Design:
+## VPC Design:
 https://docs.aws.amazon.com/quickstart/latest/vpc/images/quickstart-vpc-design-fullscreen.png
 
 Four fundamental philosophies of Cloud I believe are
@@ -14,7 +14,7 @@ Four fundamental philosophies of Cloud I believe are
 3. Scalability
 4. Elasticity
 
-Resources:
+## Resources:
 
 - VPC creation
 - Internet Gateway
@@ -28,7 +28,7 @@ Resources:
 - ~~Launch configuration~~
 - ~~Bastion Host creation~~
 
-Highlights:
+## Highlights:
 
 - Above are the resources I've created using Terraform to have a vanila VPC to begin with. I have not created the one with strikethrough yet as it depends on the application nature and requirement. 
 
