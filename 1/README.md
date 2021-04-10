@@ -14,6 +14,8 @@ Four fundamental philosophies of Cloud I believe are
 3. Scalability
 4. Elasticity
 
+Resources:
+
 - VPC creation
 - Internet Gateway
 - NAT Gateway
