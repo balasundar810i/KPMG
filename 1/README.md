@@ -4,17 +4,17 @@ A 3 tier environment is a common setup. Use a tool of your choosing/familiarity 
 
 -------------------------------------------------------------------------------------------------------
 
-VPC creation
-Internet Gateway
-NAT Gateway
-Public and Private subnets
-Two Route Tables
-Security Groups
-NACLs
-~~Internet and Internal LB~~
-~~Auto Scaling Groups~~
-~~Launch configuration~~
-~~Bastion Host creation~~
+-VPC creation
+-Internet Gateway
+-NAT Gateway
+-Public and Private subnets
+-Two Route Tables
+-Security Groups
+-NACLs
+-~~Internet and Internal LB~~
+-~~Auto Scaling Groups~~
+-~~Launch configuration~~
+-~~Bastion Host creation~~
 
 Above are the resources I've created using Terraform to have a vanila VPC to begin with. I have not created the one with strikethrough yet as it depends on the application nature and requirement. 
 
