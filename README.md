@@ -1,4 +1,5 @@
 # KPMG Technical Assessment
 
-| Candidate | Bala Sundar Ambati |
+| --------- | -------------- |
+| Candidate | Bala Ambati    |
 | Recruiter | Katie Pattison |
